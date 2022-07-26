@@ -1,0 +1,148 @@
+/* section - 1 styles*/
+.section-block1{width:1104px;
+    margin-top:82px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:0px;
+}
+.h5-text1{
+    font-size:14px;
+    color:#5863F8;
+    font-family: 'Work Sans', sans-serif;
+    
+
+}
+.h1-text1{
+    
+    width:458px;
+    height:115px;
+    font-size:42px;
+    font-family: 'Work Sans', sans-serif;
+    
+
+}
+.left-block{
+    width: 532px;
+    height: 190px;
+    margin-right:20px ;
+    background-color:#F8F8F8;
+    display:inline-block;
+      
+    
+}
+
+.right-block{
+    width: 536px;
+    height: 190px;
+    background-color:#F8F8F8;
+    display:inline-block;
+}
+.left-block-img{display: inline-block;}
+.left-block-text-box{
+    width:239px ;
+    height: 117px;
+    margin-top: 37px;
+    margin-left:16px ;
+    vertical-align: top;
+    
+    display: inline-block;
+}
+.left-P-1{
+    font-size: 14px;
+    color: #5863F8;
+    font-family: 'Cormorant SC';
+
+}
+    
+.left-P-2{
+    font: size 18px;
+    color: black;
+    margin-bottom:10px ;
+    font-family: 'Cormorant SC';
+}
+.left-P-3{
+    font-size:14px ;
+    color:#B1B1B1 ;
+    font-family: 'Cormorant SC';
+}
+ 
+.right-block-img{display: inline-block;}
+.right-block-text-box{
+    width:239px ;
+    height: 117px;
+    margin-top: 37px;
+    margin-left:16px ;
+    vertical-align: top;
+    
+    display: inline-block;
+}
+.right-P-1{
+    font-size: 14px;
+    color: #5863F8;
+    font-family: 'Cormorant SC';
+
+}
+.right-P-2{
+    font: size 18px;
+    color: black;
+    font-family: 'Cormorant SC';
+    margin-bottom:10px}
+   
+
+
+.right-P-3{
+    font-size:14px ;
+    color:#B1B1B1 ;
+    font-family: 'Cormorant SC';}
+
+/*Section -2 styles*/    
+.section-block2{
+    width: 1104px; ;
+    margin-top:82px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:0px;}
+    
+.h5-text2{
+    font-size:14px;
+    color:#5863F8;
+}
+    
+.h1-text2{
+    width:458px;
+    height:115px;
+    font-size:42px;
+}    
+.last-left-block{
+    width:352px;
+    height:360px;
+    margin-right:16px;
+    background-color:#F8F8F8;
+    display:inline-block
+}
+.middle-block{
+    width:352px;
+    height:360px;
+    margin-right:16px ;
+    background-color:#F8F8F8;
+    display: inline-block;
+}
+.last-right-block{
+    width:352px;
+    height:360px;
+    background-color:#F8F8F8;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+  
+
+
+
