@@ -9,6 +9,7 @@
     font-size:14px;
     color:#5863F8;
     font-family: 'Work Sans', sans-serif;
+    text-decoration: overline;
     
 
 }
@@ -18,7 +19,7 @@
     height:115px;
     font-size:42px;
     font-family: 'Work Sans', sans-serif;
-    
+    text-decoration:line-through;
 
 }
 .left-block{
@@ -106,40 +107,103 @@
 .h5-text2{
     font-size:14px;
     color:#5863F8;
+    font-family: "BPG Irubaqidze", sans-serif;
+    text-decoration:underline;
 }
     
 .h1-text2{
     width:458px;
     height:115px;
     font-size:42px;
-}    
+    font-family: "BPG Irubaqidze", sans-serif;
+    text-decoration:line-through ;
+}   
+.three-images{margin-right:16px;} 
 .last-left-block{
     width:352px;
-    height:360px;
+    height:148px;
     margin-right:16px;
+    vertical-align: top;
     background-color:#F8F8F8;
     display:inline-block
 }
 .middle-block{
     width:352px;
-    height:360px;
+    height:148px;
     margin-right:16px ;
+    vertical-align: top;
     background-color:#F8F8F8;
     display: inline-block;
 }
 .last-right-block{
     width:352px;
-    height:360px;
+    height:148px;
     background-color:#F8F8F8;
     display: inline-block;
 }
+.last-left-block-img{
+    display: inline-block;
+    vertical-align: top;}
 
+.last-left-p-1{
+    font-size:14px ;
+    color:#5863F8 ;
+    margin:25px 0 0 115px ;
+    font-family: 'BPG Nuskha Modern';
+}    
+.last-left-p-2{
+    font-size:18px ;
+    color: black;
+    margin: 5px 0 0 58px;
+    font-family: 'BPG Nuskha Modern';
 
+}
+.last-left-p-3{
+    font-size:14px ;
+    color: #B1B1B1;
+    margin:10px 65px 0 65px ;
+    font-family: 'BPG Nuskha Modern';
+}
 
+.middle-p-1{
+    font-size:14px ;
+    color:#5863F8 ;
+    margin:25px auto 0 125px ;
+    font-family: 'BPG Nuskha Modern';
+}
 
+.middle-p-2{
+    font-size:18px ;
+    color: black;
+    margin: 5px 0 0 58px;
+    font-family: 'BPG Nuskha Modern';
+}
+.middle-p-3{
+    font-size:14px ;
+    color: #B1B1B1;
+    margin:10px 65px 0 65px ;
+    font-family: 'BPG Nuskha Modern';
+}
 
-
-
+.last-right-p-1{
+    font-size:14px ;
+    color:#5863F8 ;
+    margin:25px auto 0 125px ;
+    font-family: 'BPG Nuskha Modern';
+}
+.last-right-p-2{
+    font-size:18px ;
+    color: black;
+    margin: 5px 0 0 58px;
+    font-family: 'BPG Nuskha Modern';
+}
+.last-right-p-3{
+    font-size:14px ;
+    color: #B1B1B1;
+    margin:10px 65px 0 65px ;
+   
+    font-family: 'BPG Nuskha Modern';
+}
 
 
   
